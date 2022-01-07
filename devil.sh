@@ -1,3 +1,6 @@
+#this script will quickly get a wordpress instance installed using devilbox and docker.
+#example: 
+#bash devil my_site
 project="$1"
 mkdir "$project"
 cd "$project"
