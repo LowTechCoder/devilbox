@@ -1,5 +1,7 @@
 # devilbox
 
+The devil.sh file will help you create a wp instance.
+
 The devil.sh file belongs in: 
 
 ~/devilbox/data/www/
